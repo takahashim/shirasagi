@@ -1,4 +1,4 @@
-# How to Install and use
+# How to Install and Use
 
 The target OS of this document is CentOS 6.5/64bit.
 
